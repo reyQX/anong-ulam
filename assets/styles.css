@@ -93,14 +93,7 @@ button.btn-outlined:hover {
     font-size: 3em;
 }
 
-@media (min-width: 616px) {
-    .modal-content>p {
-        font-weight: bold;
-        font-size: 2em;
-    }
-}
-
-@media (max-width: 414px) {
+@media (max-width: 600px) {
     .modal-content {
         margin: auto;
         margin-top: 5rem;
